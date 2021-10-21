@@ -34,7 +34,7 @@ Transaction Fee = gas used * gas price
 
 A gas station is an application to view recommended gas prices in GWEI.
 
-    - Go to [ethgasstation.info](https://ethgasstation.info) to view recommended gas prices in GWEI.
+   - Go to [ethgasstation.info](https://ethgasstation.info) to view recommended gas prices in GWEI.
 
 ### Hash
 
@@ -42,8 +42,8 @@ Hash is a unique fixed length string that decrypts data, by using a hash functio
 
 Ethereum utilizes Keccak-256 for hashing.
 
-    - Go to [andersbrownworth.com](https://andersbrownworth.com/blockchain/block) to generate a hash.
-    - Fill out the fields: Block, Nonce, Data and hit the "Mine" button.
+   - Go to [andersbrownworth.com](https://andersbrownworth.com/blockchain/block) to generate a hash.
+   - Fill out the fields: Block, Nonce, Data and hit the "Mine" button.
 
 ## Rinkeby Test Network
 
