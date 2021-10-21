@@ -7,10 +7,10 @@
 ## Table of Contents
 1. [Blockchains](#blockchain)
 2. [Transactions](#transactions)
-    b. [Gas Stations](#gas-stations)
-    c. [Hash](#hash)
+   a. [Gas Stations](#gas-stations)
+   b. [Hash](#hash)
 3. [Rinkeby Test Network](#rinkeby-test-network)
-    a. [Getting Test Tokens](#getting-test-tokens)
+   a. [Getting Test Tokens](#getting-test-tokens)
 4. [Keys](#keys)
 
 ## Blockchains
