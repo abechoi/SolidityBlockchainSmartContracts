@@ -6,12 +6,8 @@
 
 ## Table of Contents
 1. [Blockchains](#blockchain)
-2. [Transactions](#transactions)
-   a. [Gas Stations](#gas-stations)
-   b. [Hash](#hash)
-3. [Rinkeby Test Network](#rinkeby-test-network)
-   a. [Getting Test Tokens](#getting-test-tokens)
-4. [Keys](#keys)
+2. [Rinkeby Test Network](#rinkeby-test-network)
+3. [Keys](#keys)
 
 ## Blockchains
 
@@ -23,7 +19,7 @@ If the data changes, the nonce changes, then the hash changes, which will break 
 
 Mining is the process of finding the solution to the blockchain problem.
 
-## Transactions
+### Transactions
 
 Gas is the measure of computation use, gas price is the price per unit of gas, gas limit is the max amount of gas in a transaction.
 
@@ -64,3 +60,4 @@ A Faucet is an application that provides free test tokens.
    - Copy the link to tweet, paste it on faucet.rinkeby.io, and clicn the "Give me Ether" button.
    - In a short time, the requested Ether should be displayed in the wallet.
 
+## Keys
